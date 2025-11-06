@@ -14,19 +14,15 @@ It includes:
 
 ## Folder Structure
 
-Assignment4/
-│
-├── Q2/ # Python Kalman Filter
-│ ├── Q2e.py # Standard Kalman Filter (prediction + correction)
-│ └── Q2f.py # Kalman Filter without measurements (prediction only)
-│
-├── Q3/ # Unity project
-│ ├── Assets/ # Game assets, models, and scripts
-│ ├── ProjectSettings/ # Unity project configuration
-│ ├── .gitignore # Standard Unity .gitignore
-│ └── Q3.sln # Unity solution file
-│
-└── README.md # This file
+Assignment4/Q2/ # Python Kalman Filter
+Assignment4/Q2/Q2e.py # Standard Kalman Filter (prediction + correction)
+Assignment4/Q2/Q2f.py # Kalman Filter without measurements (prediction only)
+Assignment4/Q3/ # Unity project
+Assignment4/Q3/Assets/ # Game assets, models, and scripts
+Assignment4/Q3/ProjectSettings/ # Unity project configuration
+Assignment4/Q3/.gitignore # Standard Unity .gitignore
+Assignment4/Q3/Q3.sln # Unity solution file
+Assignment4/README.md # This file
 
 ## How to Run
 
